@@ -4,4 +4,14 @@
 - Realizado para ir mejorando cosas de diseño y experiencia hacia el usuario.
 - Creado con HTML, CSS y Javascript.
 
-https://glasses4u-responsive.netlify.app/
+# Autor
+
+- https://www.linkedin.com/in/pablo-guti%C3%A9rrez-mu%C3%B1oz-97b558247/
+
+# Web
+
+- https://glasses-4-u.netlify.app/
+
+# Contacto
+
+- pablo.gutierrez.munoz@gmail.com
